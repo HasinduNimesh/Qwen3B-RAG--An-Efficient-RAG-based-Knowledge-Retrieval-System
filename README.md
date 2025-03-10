@@ -1,6 +1,5 @@
 # Qwen3B-RAG: An Efficient RAG-based Knowledge Retrieval System
 
-![GitHub tag](https://img.shields.io/github/tag/HasinduNimesh/Qwen3B-RAG.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-blue)
 ![License](https://img.shields.io/github/license/HasinduNimesh/Qwen3B-RAG--An-Efficient-RAG-based-Knowledge-Retrieval-System)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
